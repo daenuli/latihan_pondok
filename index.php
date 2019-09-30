@@ -6,5 +6,5 @@ echo "Thoriq";
 echo "adib";
 echo "suryo";
 echo "Kurni";
-
 echo "Omoshiroi thoriq";
+echo "ABCD";
